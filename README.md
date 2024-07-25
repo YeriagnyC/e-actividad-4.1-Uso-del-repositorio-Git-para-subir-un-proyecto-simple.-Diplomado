@@ -8,6 +8,14 @@ E-actividad 4.1
     <li>Jhonny Gutiérrez. C.I: 30.425.131.</li>
 </ul>
 
+<h2>Contenido:</h2>
+
+<P>Datos personales, estudios realizados y cursos realizados de Jhonny Gutiérrez.
+
+Datos personales, estudios realizados y cursos realizados de Yeriagny Chirinos.
+
+</P>
+
 <h2>Introducción</h2>
 
 <p>Bienvenidos al Proyecto CV en GitHub. Este proyecto tiene como objetivo que los estudiantes se 
